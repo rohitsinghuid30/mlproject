@@ -21,9 +21,9 @@ list_of_file = [
     f"src/{project_name}/exception.py",
     f"src/{project_name}/logger.py",
     f"src/{project_name}/utils.py",
-    "app.py"
-    "requirements.txt"
-    "Dockerfile"
+    "app.py",
+    "requirements.txt",
+    "Dockerfile",
     "setup.py"
 ]
 
